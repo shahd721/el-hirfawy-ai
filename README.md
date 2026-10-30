@@ -41,3 +41,6 @@ confirm identity or detect spoofing.
 ## OCR
 
 Use the OCR endpoint documented in /docs.
+
+# el-hirfawy-ai
+AI Identity Verification Service using OCR and Face Matching
