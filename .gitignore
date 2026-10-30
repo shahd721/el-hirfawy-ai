@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test images and personal data
+test_images/
+sample.png
+processed_image.png
+ocr_result.json
+extracted_fields.json
+
+# Temporary files
+*.log
+.DS_Store
