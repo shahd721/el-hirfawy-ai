@@ -1,22 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.python-version
+
 # Environment variables and secrets
 .env
 .env.*
 
-# Python virtual environment
-.venv/
-venv/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Test images and personal data
+# Test images and OCR outputs
 test_images/
-sample.png
-processed_image.png
-ocr_result.json
-extracted_fields.json
+*.png
+*.jpg
+*.jpeg
+*.json
 
 # Temporary files
-*.log
 .DS_Store
